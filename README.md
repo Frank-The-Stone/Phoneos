@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: B O X
 - 📫 How to reach me: box@boxmail.box
 
-I'm in middle school and program in my free time, all self taught
+I'm in middle school and program in my free time, all self taught.
 My code isn't flawless, so have some patience
 
 <!---
