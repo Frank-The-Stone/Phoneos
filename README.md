@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Phoneos
-- 👀 I’m interested in: B O X
-- 🌱 I’m currently learning: B O X
-- 💞️ I’m looking to collaborate on: B O X
-- 📫 How to reach me: box@boxmail.box
-
-I'm in middle school and program in my free time, all self taught.
-My code isn't flawless, so have some patience
+- 👋 Hi, I’m @Frank
+- 👀 I’m interested in: Stone
+- 🌱 I’m currently learning: C opengl and the such
+- 💞️ I’m looking to collaborate on: Stone
+- 📫 How to reach me: Don't
 
 <!---
 Phoneos/Phoneos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
